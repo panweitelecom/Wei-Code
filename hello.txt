@@ -1,2 +1,3 @@
 hi git！！
+hello I'm B
 hello I'm A
